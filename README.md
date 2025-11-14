@@ -6,7 +6,7 @@ Recruiter app: https://play.google.com/store/apps/details?id=com.vaidyog.recruit
 
 web: http://healthcarejobs.vaidyog.com/login
 
-As the Lead QA Tester for the Vaidyog Healthcare Job Portal, I was responsible for validating the platform across all interfaces —
+As A QA Tester for the Vaidyog Healthcare Job Portal, I was responsible for validating the platform across all interfaces —
 
 📱 User App (Candidates)
 📱 Recruiter App
